@@ -1,0 +1,30 @@
+﻿@font-face {
+    font-family: "typewriter";
+    src: url(fonts/LETT____.TTF);
+}
+body {
+background-image: url(wpc1.png)}
+h1 {font-family: "typewriter";
+} 
+
+h2 {
+  text-align: right;
+ style {
+    object-position: -100px 200px
+}
+}
+h3 {
+    text-align: left;
+}
+h4 {
+    text-align: left;
+}
+h5 {
+    text-align: right;
+}
+h6 {
+    text-align: right;
+}
+h7 {
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\bin\Debug\net8.0\novirus.exe
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\bin\Debug\net8.0\novirus.deps.json
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\bin\Debug\net8.0\novirus.runtimeconfig.json
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\bin\Debug\net8.0\novirus.dll
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\bin\Debug\net8.0\novirus.pdb
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\obj\Debug\net8.0\novirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\obj\Debug\net8.0\novirus.AssemblyInfoInputs.cache
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\obj\Debug\net8.0\novirus.AssemblyInfo.cs
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\obj\Debug\net8.0\novirus.csproj.CoreCompileInputs.cache
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\obj\Debug\net8.0\novirus.dll
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\obj\Debug\net8.0\refint\novirus.dll
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\obj\Debug\net8.0\novirus.pdb
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\obj\Debug\net8.0\novirus.genruntimeconfig.cache
+C:\Users\ВіталяГрімм\Documents\noviruschan\novirus\obj\Debug\net8.0\ref\novirus.dll
